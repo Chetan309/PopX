@@ -11,11 +11,11 @@
 
 react-assignment/  
 │── src/  
-│   ├── components/    → Reusable components (Buttons, Header, etc.)  
+│   ├── context/       → User context 
 │   ├── pages/         → Page components (Home, Login, Profile, etc.)  
 │   ├── App.jsx        → Main app with routes  
 │   └── main.jsx       → Entry point  
-│── public/            → Static assets  
+│── public/            
 │── package.json  
 │── tailwind.config.js  
 │── README.md  
